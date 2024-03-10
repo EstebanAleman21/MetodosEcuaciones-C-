@@ -1,0 +1,15 @@
+/Users/esteban/Projects/Act07/Act07/bin/Debug/net7.0/Act07
+/Users/esteban/Projects/Act07/Act07/bin/Debug/net7.0/Act07.deps.json
+/Users/esteban/Projects/Act07/Act07/bin/Debug/net7.0/Act07.runtimeconfig.json
+/Users/esteban/Projects/Act07/Act07/bin/Debug/net7.0/Act07.dll
+/Users/esteban/Projects/Act07/Act07/bin/Debug/net7.0/Act07.pdb
+/Users/esteban/Projects/Act07/Act07/obj/Debug/net7.0/Act07.csproj.AssemblyReference.cache
+/Users/esteban/Projects/Act07/Act07/obj/Debug/net7.0/Act07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/esteban/Projects/Act07/Act07/obj/Debug/net7.0/Act07.AssemblyInfoInputs.cache
+/Users/esteban/Projects/Act07/Act07/obj/Debug/net7.0/Act07.AssemblyInfo.cs
+/Users/esteban/Projects/Act07/Act07/obj/Debug/net7.0/Act07.csproj.CoreCompileInputs.cache
+/Users/esteban/Projects/Act07/Act07/obj/Debug/net7.0/Act07.dll
+/Users/esteban/Projects/Act07/Act07/obj/Debug/net7.0/refint/Act07.dll
+/Users/esteban/Projects/Act07/Act07/obj/Debug/net7.0/Act07.pdb
+/Users/esteban/Projects/Act07/Act07/obj/Debug/net7.0/Act07.genruntimeconfig.cache
+/Users/esteban/Projects/Act07/Act07/obj/Debug/net7.0/ref/Act07.dll
